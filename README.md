@@ -6,8 +6,11 @@ The analysis is performed using Python in a Jupyter Notebook, with a focus on da
 Features:-
 
 1> Exploratory Data Analysis (EDA): Initial data exploration to understand the structure, data types, and key statistical metrics.
+
 2>Attrition Analysis: Detailed breakdown of employee attrition rates based on various attributes like department, job role, and salary.
+
 3>Data Visualization: A series of visualizations, including pie charts and bar plots, to illustrate the distribution of different employee characteristics and their relationship with attrition.
+
 4>Key Insights: The notebook provides insights into the factors that may contribute to employees leaving the company, which can be valuable for HR and management.
 
 Technologies Used :-
